@@ -1,71 +1,88 @@
-<!-- Top Banner -->
-<img width="100%" src="https://capsule-render.vercel.app/api?type=waving&color=4e88ff&height=100&section=header" alt="banner" />
-<h1 align="center">Hi, I'm Charitha 👋</h1>
-<h1 align="center">👩‍💻 Full-Stack Developer | Java & JavaScript Enthusiast</h1>
+<!-- Header -->
+<img width="100%" src="https://capsule-render.vercel.app/api?type=waving&color=gradient&customColorList=6,11,20&height=120&section=header&text=Charitha%20S%20P&fontSize=36&fontColor=ffffff&fontAlignY=65&animation=fadeIn" />
 
 <p align="center">
-  <a href="mailto:charithasp2003@gmail.com">Email</a> •
-  <a href="https://github.com/Chariitha">GitHub</a>
+  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=500&size=18&pause=1000&color=58A6FF&center=true&vCenter=true&width=500&lines=Full-Stack+Developer;React+%2F+Next.js+%2F+Node.js;AI+Integrations+%7C+REST+APIs;Open+to+Freelance+Projects" alt="Typing SVG" />
 </p>
 
 ---
 
-### 🧠 About Me
+# Hi, I'm Charitha 👋
 
-🎓 I'm a **Dedicated Engineering Graduate** with a degree in *Information Science and Engineering*.  
-💡 Passionate about building **user-centric**, **innovative**, and **scalable** web applications.  
-🌐 Proficient in **Full-Stack Development**, with hands-on experience in modern web tools.  
-🚀 Currently exploring **Firebase**, **Cloud Functions**, and scalable backend services.
+**Full-Stack Developer · React / Next.js / Node.js · AI Integrations · Bengaluru, India**
 
 ---
 
-### 🧰 Tech Stack
+## What I Build
 
-<table align="center">
-  <tr>
-    <td align="center"><img src="https://skillicons.dev/icons?i=java" width="50"/><br>Java</td>
-    <td align="center"><img src="https://skillicons.dev/icons?i=js" width="50"/><br>JavaScript</td>
-    <td align="center"><img src="https://skillicons.dev/icons?i=react" width="50"/><br>React.js</td>
-    <td align="center"><img src="https://skillicons.dev/icons?i=tailwind" width="50"/><br>Tailwind CSS</td>
-    <td align="center"><img src="https://skillicons.dev/icons?i=nodejs" width="50"/><br>Node.js</td>
-    <td align="center"><img src="https://skillicons.dev/icons?i=express" width="50"/><br>Express.js</td>
-  </tr>
-  <tr>
-    <td align="center"><img src="https://skillicons.dev/icons?i=mongodb" width="50"/><br>MongoDB</td>
-    <td align="center"><img src="https://skillicons.dev/icons?i=mysql" width="50"/><br>MySQL</td>
-    <td align="center"><img src="https://skillicons.dev/icons?i=firebase" width="50"/><br>Firebase</td>
-    <td align="center"><img src="https://skillicons.dev/icons?i=postman" width="50"/><br>Postman</td>
-    <td align="center"><img src="https://skillicons.dev/icons?i=php" width="50"/><br>PHP</td>
-    <td align="center"><img src="https://skillicons.dev/icons?i=bootstrap" width="50"/><br>Bootstrap</td>
-  </tr>
-</table>
+Production-grade web applications with real-time features, AI integrations, and clean REST APIs.  
+Currently working professionally as a Software Development Engineer.
 
 ---
 
-### 🚀 Projects
+## Tech Stack
 
-| Project        | Live Demo | GitHub Repo | Tech Stack |
-|---------------|-----------|-------------|------------|
-| **Streamify** | [Live](https://streamify-2s3t.onrender.com) | [Repo](https://github.com/Chariitha/streamify) | React, Express.js, MongoDB, Zustand, Tailwind CSS |
-| **Netflix GPT** | [Live](https://netflixgpt-deead.web.app/) | [Repo](https://github.com/Chariitha/netflix-gpt) | React, Redux, Firebase, TMDB API, Gemini API |
-| **PG Life** | – | [Repo](https://github.com/Chariitha/pg-life) | HTML, CSS, JS, Bootstrap, PHP, MySQL |
-| **URL Shortener** | [Live](https://snapurl-c5el.onrender.com) | [Repo](https://github.com/Chariitha/url-shortener) | React, Express.js, MongoDB, Tailwind CSS |
+**Frontend**  
+React · Next.js · TypeScript · Redux · Tailwind CSS · TanStack Query · Zustand
+
+**Backend**  
+Node.js · Express.js · REST APIs · Redis · JWT Auth
+
+**Databases**  
+MongoDB · MySQL · Firebase · Supabase
+
+**Other**  
+Technical SEO · Git · Postman · Render · Vercel
+
+<p align="center">
+  <img src="https://skillicons.dev/icons?i=react,nextjs,ts,js,redux,tailwind&perline=6" />
+  <br/>
+  <img src="https://skillicons.dev/icons?i=nodejs,express,redis,mongodb,mysql,firebase&perline=6" />
+  <br/>
+  <img src="https://skillicons.dev/icons?i=git,postman,vercel,vscode&perline=6" />
+</p>
 
 ---
 
-### 📊 GitHub Stats
+## Featured Projects
 
-<div align="center">
-  <img height="160em" src="https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=Chariitha&theme=default" />
-  <img height="160em" src="https://github-profile-summary-cards.vercel.app/api/cards/stats?username=Chariitha&theme=default" />
-  <img height="160em" src="https://github-profile-summary-cards.vercel.app/api/cards/repos-per-language?username=Chariitha&theme=default" />
-  <img height="160em" src="https://github-profile-summary-cards.vercel.app/api/cards/most-commit-language?username=Chariitha&theme=default" />
-  <img height="160em" src="https://github-profile-summary-cards.vercel.app/api/cards/productive-time?username=Chariitha&theme=default&utcOffset=5" />
-</div>
+| Project | What it does | Stack | Live |
+|---|---|---|---|
+| **[Streamify](https://github.com/Chariitha/streamify)** | Real-time chat + video calling platform with JWT auth, Stream API, 32 themes | React, Node, Express, MongoDB, Zustand | [Live ↗](https://streamify-2s3t.onrender.com) |
+| **[Netflix GPT](https://github.com/Chariitha/netflix-gpt)** | AI-powered movie discovery using Gemini API + TMDB | React, Redux, Firebase, Gemini API | [Live ↗](https://netflixgpt-deead.web.app/) |
+| **[URL Shortener](https://github.com/Chariitha/url-shortener)** | Custom short links with redirect tracking | React, Express, MongoDB | [Live ↗](https://snapurl-c5el.onrender.com) |
 
 ---
 
-<p align="center"><b>Thank you for visiting my profile! 🙌</b></p>
+## Currently
 
-<!-- Footer Banner -->
-<img width="100%" src="https://capsule-render.vercel.app/api?type=waving&color=4e88ff&height=80&section=footer"/>
+- 🔨 Working full-stack professionally (React + Node.js)
+- 📚 Learning: Web Security, backend architecture & secure application development
+- 🌱 Building and shipping ideas on the web
+- 💼 Open to interesting collaborations, projects, and conversations
+
+---
+
+## GitHub Stats
+
+<p align="center">
+  <img height="160em" src="https://github-readme-stats.vercel.app/api?username=Chariitha&show_icons=true&theme=github_dark&hide_border=true&include_all_commits=true&count_private=true" />
+  <img height="160em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Chariitha&layout=compact&theme=github_dark&hide_border=true&langs_count=6" />
+</p>
+
+<p align="center">
+  <img src="https://github-readme-streak-stats.herokuapp.com?user=Chariitha&theme=github-dark-blue&hide_border=true" />
+</p>
+
+---
+
+## Contact
+
+📧 charithasp2003@gmail.com &nbsp;·&nbsp; [LinkedIn](https://linkedin.com/in/charitha-sp) &nbsp;·&nbsp; [GitHub](https://github.com/Chariitha)
+
+<p align="center">
+  <img src="https://komarev.com/ghpvc/?username=Chariitha&style=flat-square&color=58a6ff&label=Profile+Views" />
+</p>
+
+<!-- Footer -->
+<img width="100%" src="https://capsule-render.vercel.app/api?type=waving&color=gradient&customColorList=6,11,20&height=80&section=footer" />
