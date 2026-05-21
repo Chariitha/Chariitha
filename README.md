@@ -1,7 +1,7 @@
 <!-- Top Banner -->
 <img width="100%" src="https://capsule-render.vercel.app/api?type=waving&color=4e88ff&height=100&section=header" alt="banner" />
 <h1 align="center">Hi, I'm Charitha 👋</h1>
-<h1 align="center">👩‍💻 Full-Stack Developer • React / Next.js / Node.js • Bengaluru, India</h1>
+<h1 align="center">👩‍💻 Full-Stack Developer • React / Next.js / Node.js • AI Integrations • Bengaluru, India</h1>
 
 <p align="center">
   <a href="mailto:charithasp2003@gmail.com">Email</a> •
@@ -12,14 +12,15 @@
 
 ### 🧠 What I Build 
 
-🎓 I'm a **Dedicated Engineering Graduate** with a degree in *Information Science and Engineering*.  
-💡 Passionate about building **user-centric**, **innovative**, and **scalable** web applications.  
-🌐 Proficient in **Full-Stack Development**, with hands-on experience in modern web tools.  
-🚀 Currently exploring **Firebase**, **Cloud Functions**, and scalable backend services.
-
+🌐 Production-grade web applications with real-time features, AI integrations, and clean REST APIs.  
+🚀 Currently working professionally as a Software Development Engineer.
 ---
 
 ### 🧰 Tech Stack
+**Frontend:** React, Next.js, TypeScript, Redux, Tailwind CSS, TanStack Query, Zustand  
+**Backend:** Node.js, Express.js, REST APIs, Redis, JWT Auth  
+**Databases:** MongoDB, MySQL, Firebase  
+**Tools & Platforms:** Git, Postman, Render, Vercel, Technical SEO
 
 <table align="center">
   <tr>
@@ -43,29 +44,20 @@
 ---
 
 ### 🚀 Projects
-
-| Project        | Live Demo | GitHub Repo | Tech Stack |
-|---------------|-----------|-------------|------------|
-| **Streamify** | [Live](https://streamify-2s3t.onrender.com) | [Repo](https://github.com/Chariitha/streamify) | React, Express.js, MongoDB, Zustand, Tailwind CSS |
-| **Netflix GPT** | [Live](https://netflixgpt-deead.web.app/) | [Repo](https://github.com/Chariitha/netflix-gpt) | React, Redux, Firebase, TMDB API, Gemini API |
-| **PG Life** | – | [Repo](https://github.com/Chariitha/pg-life) | HTML, CSS, JS, Bootstrap, PHP, MySQL |
-| **URL Shortener** | [Live](https://snapurl-c5el.onrender.com) | [Repo](https://github.com/Chariitha/url-shortener) | React, Express.js, MongoDB, Tailwind CSS |
-
+| Project | What it does | Tech Stack | Live Demo |
+|---|---|---|---|
+| **[Streamify](https://github.com/Chariitha/streamify)** | Real-time chat + video calling platform with JWT auth, Stream API, 32 themes | React, Node, Express, MongoDB, Zustand | [Live ↗](https://streamify-2s3t.onrender.com) |
+| **[Netflix GPT](https://github.com/Chariitha/netflix-gpt)** | AI-powered movie discovery using Gemini API + TMDB | React, Redux, Firebase, Gemini API | [Live ↗](https://netflixgpt-deead.web.app/) |
+| **[URL Shortener](https://github.com/Chariitha/url-shortener)** | Custom short links with redirect tracking | React, Express, MongoDB | [Live ↗](https://snapurl-c5el.onrender.com) |
+ 
 ---
-
-### 📊 GitHub Stats
-
-<div align="center">
-  <img height="160em" src="https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=Chariitha&theme=default" />
-  <img height="160em" src="https://github-profile-summary-cards.vercel.app/api/cards/stats?username=Chariitha&theme=default" />
-  <img height="160em" src="https://github-profile-summary-cards.vercel.app/api/cards/repos-per-language?username=Chariitha&theme=default" />
-  <img height="160em" src="https://github-profile-summary-cards.vercel.app/api/cards/most-commit-language?username=Chariitha&theme=default" />
-  <img height="160em" src="https://github-profile-summary-cards.vercel.app/api/cards/productive-time?username=Chariitha&theme=default&utcOffset=5" />
-</div>
-
+### 🛠️ Currently
+ 
+- 💼 Working on full-stack professionally (React + Node.js)
+- 📚 Learning: Web Security, backend architecture and secure application development
+- 🌱 Building and shipping ideas on the web
+- 🧩 Interested in solving real-world problems through technology
 ---
-
-<p align="center"><b>Thank you for visiting my profile! 🙌</b></p>
 
 <!-- Footer Banner -->
 <img width="100%" src="https://capsule-render.vercel.app/api?type=waving&color=4e88ff&height=80&section=footer"/>
