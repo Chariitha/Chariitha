@@ -12,7 +12,7 @@
 ---
 
 ### 🧠 What I Build 
-🌐 Production-grade web applications with real-time features, AI integrations, and clean REST APIs. 
+🌐 Production-grade web applications with real-time features, AI integrations, and clean REST APIs.  
 🚀 Currently working professionally as a Software Development Engineer.
 ---
 
