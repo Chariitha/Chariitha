@@ -1,6 +1,6 @@
 <!-- Top Banner -->
 <img width="100%" src="https://capsule-render.vercel.app/api?type=waving&color=4e88ff&height=100&section=header" alt="banner" />
-<h1 align="center">Hey there! I'm Charitha S P 👋</h1>
+<h1 align="center">Hi, I'm Charitha 👋</h1>
 <h1 align="center">👩‍💻 Full-Stack Developer | Java & JavaScript Enthusiast</h1>
 
 <p align="center">
