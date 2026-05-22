@@ -48,7 +48,7 @@
 | Project | What it does | Tech Stack | Live Demo |
 |---|---|---|---|
 | **[Streamify](https://github.com/Chariitha/streamify)** | Real-time chat + video calling platform with JWT auth, Stream API, 32 themes | React, Node, Express, MongoDB, Zustand | [Live ↗](https://streamify-2s3t.onrender.com) |
-| **[Netflix GPT](https://github.com/Chariitha/netflix-gpt)** | AI-powered movie discovery using Gemini API + TMDB | React, Redux, Firebase, Gemini API | [Live ↗](https://netflixgpt-deead.web.app/) |
+| **[AI Movie Discovery](https://github.com/Chariitha/netflix-gpt)** | AI-powered movie discovery using Gemini API + TMDB | React, Redux, Firebase, Gemini API | [Live ↗](https://netflixgpt-deead.web.app/) |
 | **[URL Shortener](https://github.com/Chariitha/url-shortener)** | Custom short links with redirect tracking | React, Express, MongoDB | [Live ↗](https://snapurl-c5el.onrender.com) |
  
 ---
